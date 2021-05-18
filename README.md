@@ -1,1 +1,1 @@
-# EEET2485-health-failure-prediction
+# EEET2485-heart-failure-prediction
